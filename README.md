@@ -42,7 +42,7 @@ O Haar cascade funciona muito bem quando estamos falando de detecção de um pad
 # Quarto Lugar: NN Linear
 Como a NN Linear já tem problemas para passar do primeiro passo (Reconhecer faces) seria mais problemático ainda realizar operações de analise de emoções com ela.
 ## (2.4)
-Sim! CNNs Tri-Dimensionais tem conseguem realizar esse tipo de análise. Utilizando Kernels Tri-dimensionais é possivel analisar informações em tempos diferentes, não se limitando a uma análise que acontece apenas a cada instante ou frame do vídeo, e sim uma análise que consegue considerar padrões que aconteceram em instantes ou frames anteriores ao atual.
+Sim! CNNs Tri-Dimensionais tem conseguem realizar esse tipo de análise. Utilizando Kernels (Kerneis??) Tri-dimensionais é possivel analisar informações em tempos diferentes, não se limitando a uma análise que acontece apenas a cada instante ou frame do vídeo, e sim uma análise que consegue considerar padrões que aconteceram em instantes ou frames anteriores ao atual. Esse mesmo conceito pode ser aplicado a filtros de correlação cruzada.
 ## (2.5) vinicios Junor           (vinicius jr)
 
 
