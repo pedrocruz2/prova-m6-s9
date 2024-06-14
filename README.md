@@ -2,7 +2,7 @@ Esse Readme será divido em duas seções, uma primeira de instruções para rod
 
 
 
-##INSTRUÇÕES PARA RODAR
+## INSTRUÇÕES PARA RODAR
 
 - Clone o este repositório utilizando o comando git clone https:
 - Baixe os dados de treinamento disponíveis ![neste link](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_alt.xml)
