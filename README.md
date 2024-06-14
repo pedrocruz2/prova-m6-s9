@@ -10,6 +10,7 @@ Esse Readme será divido em duas seções, uma primeira de instruções para rod
 - Crie um ambiente virtual utilizando o comando ```python -m venv venv``` (Windows) ou ```python3 -m venv venv``` (Linux ou MacOS)
 - Acione esse ambiente virtual utilizando o comando ```./venv/Scripts/activate``` (Windows) ou ```source ./venv/bin/activate ``` (Linux ou MacOS)
 - rode o comando ```pip install -r requirements.txt``` para instalar todas as dependências necessárias
+- rode o comando ```mkdir new_video``` para criar a pasta onde serão colocados os frames do novo vídeo 
 - rode o comando ```python ./main.py``` (Windows) ou ```python3 ./main.py``` (Linux ou MacOS)
 
 Será gerado um arquivo de video chamado new_video.mp4 que terá as deteccoes funcionando normalmente.
